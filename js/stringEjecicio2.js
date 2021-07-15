@@ -7,7 +7,7 @@ console.log(agregarIndice("kawabonga")); // imprime "k0w1a2b3o4n5g6a7"
 console.log(agregarIndice("casa")); // imprime "c0a1s2a3"
 */
 
-let str = prompt('Ingresa una palabra');
+let str = 'Ignacia';
 str;
 
 
