@@ -7,7 +7,7 @@ console.log(agregarIndice("kawabonga")); // imprime "k0w1a2b3o4n5g6a7"
 console.log(agregarIndice("casa")); // imprime "c0a1s2a3"
 */
 
-let str = 'Ignacia';
+let str = prompt('Ingresa una palabra');
 str;
 
 
@@ -21,5 +21,5 @@ for (let i = 0; i < strLength; i++) {
     strJoin += str[i] + i  
 }  
 
-
+console.log(strJoin)
 
