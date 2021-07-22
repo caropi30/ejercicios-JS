@@ -1,5 +1,5 @@
 /*CONSIGNA
-Ejercicio 2
+##Ejercicio 2
 Hacer una función que reciba una string y retorne la misma string pero agregando después de cada caracter su índice correspondiente. 
 Es decir, que retorne la misma string transformada de la siguiente forma:
 
