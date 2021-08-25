@@ -17,4 +17,4 @@ function objToArr(){
     return Object.values(valueArr);
 }
 
-objToArr([valueArr]);
+objToArr();
